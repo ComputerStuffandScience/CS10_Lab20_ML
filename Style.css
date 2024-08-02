@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+  }
+  h3 {
+      text-align: left;
+  }
+  h5 {
+      text-align: left;
+  }
+  img {
+    width: 700px;
+    height: 500px;
+  }
+  body {
+      background-color: rgb(67, 226, 216)
+  }
